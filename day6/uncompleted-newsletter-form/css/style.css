@@ -1,0 +1,129 @@
+body
+{
+    
+}
+
+.login-form {
+   
+}
+
+.login-face {
+  
+}
+
+.login-face>img {
+   
+}
+
+.login-face>img:hover
+{
+   
+}
+
+.form
+{
+    
+}
+
+.input
+{
+    
+}
+
+input[type="text"],
+input[type="email"]
+{
+    
+}
+
+.fa
+{
+    
+}
+
+input[type="text"]:focus,
+input[type="email"]:focus
+{
+   
+}
+
+input[type="submit"]
+{
+    
+}
+
+input[type="submit"]:hover
+{
+    
+}
+
+div#submitForm 
+{
+    
+}
+
+.input:hover 
+{
+   
+}
+
+#promotion-header
+{
+    
+}
+
+
+#promotion-header-title 
+{
+    
+}
+
+#promotion-body 
+{
+    
+}
+
+#promotion-body-text
+{
+    
+}
+
+#promotion-footer 
+{
+    
+}
+
+#promotion-footer-text
+{
+   
+}
+
+.popupCloseButton 
+{
+    
+}
+
+
+@keyframes shake
+{
+    0%{
+        left: 0px;
+    }
+    20%{
+        left: -15px;
+    }
+    40%{
+        left: 15px;
+    }
+    60%{
+        left: 15px;
+    }    
+    80%{
+        left: -15px;
+    }
+    100%{
+        left: 0px;
+    }
+}
+
+
